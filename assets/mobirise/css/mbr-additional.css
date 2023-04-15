@@ -1054,9 +1054,6 @@ a {
     left: -1rem;
   }
 }
-.cid-tBvyef8o4o {
-  background-image: url("../../../assets/images/wp6127300-purple-4k-wallpapers-2000x1125.jpg");
-}
 .cid-tBvyef8o4o .mbr-fallback-image.disabled {
   display: none;
 }
@@ -1068,6 +1065,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/wp6127300-purple-4k-wallpapers-2000x1125.jpg");
 }
 .cid-tBvyef8o4o .mbr-section-title {
   color: #fafafa;
@@ -1141,9 +1139,9 @@ a {
   justify-content: center;
 }
 .cid-tBvD7Hmxti {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 1rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/photo-6186166122735319549-y-1280x720.jpg");
 }
 .cid-tBvD7Hmxti .mbr-fallback-image.disabled {
   display: none;
